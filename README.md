@@ -1,2 +1,2 @@
 # Temperature-Converter
-simple working temperature covnerture
+simple working temperature converter
